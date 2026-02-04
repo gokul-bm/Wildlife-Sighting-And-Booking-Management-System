@@ -82,4 +82,4 @@ This project demonstrates the practical application of **DBMS concepts** in a re
 
 ## 👨‍💻 Author
 **Gokul BM**  
-Computer Science and Engineering  
+Information Science and Engineering  
